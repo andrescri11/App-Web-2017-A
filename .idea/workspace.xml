@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51e73e4c-efe0-4a5a-889e-669b3e5ff1e9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-CSS/index1.html" afterPath="$PROJECT_DIR$/02-CSS/index1.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -30,8 +31,8 @@
       <file leaf-file-name="index1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-CSS/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state relative-caret-position="135">
+              <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -132,7 +133,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="805" />
+    <option name="x" value="804" />
     <option name="y" value="96" />
     <option name="width" value="1544" />
     <option name="height" value="1231" />
@@ -312,15 +313,15 @@
       <workItem from="1493468171562" duration="6098000" />
       <workItem from="1493755400514" duration="232000" />
       <workItem from="1494073905456" duration="4973000" />
-      <workItem from="1494290982762" duration="1717000" />
+      <workItem from="1494290982762" duration="2567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14060000" />
+    <option name="totallyTimeSpent" value="14910000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="805" y="96" width="1544" height="1231" extended-state="0" />
+    <frame x="804" y="96" width="1544" height="1231" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22668394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -504,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02-CSS/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="36" column="25" lean-forward="false" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="135">
+          <caret line="46" column="12" lean-forward="true" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
           <folding />
         </state>
       </provider>
