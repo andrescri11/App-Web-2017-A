@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51e73e4c-efe0-4a5a-889e-669b3e5ff1e9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-CSS/Estilos.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-CSS/index1.html" afterPath="$PROJECT_DIR$/02-CSS/index1.html" />
     </list>
@@ -38,8 +39,18 @@
       <file leaf-file-name="index1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02-CSS/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state relative-caret-position="144">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Estilos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02-CSS/Estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="5" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="16" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -114,6 +125,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -129,6 +141,7 @@
         <option value="$PROJECT_DIR$/html/pagina3.html" />
         <option value="$PROJECT_DIR$/html/pagina4.html" />
         <option value="$PROJECT_DIR$/html/index.html" />
+        <option value="$PROJECT_DIR$/02-CSS/Estilos.css" />
         <option value="$PROJECT_DIR$/02-CSS/index1.html" />
       </list>
     </option>
@@ -140,8 +153,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="759" />
-    <option name="y" value="92" />
+    <option name="x" value="916" />
+    <option name="y" value="87" />
     <option name="width" value="1544" />
     <option name="height" value="1231" />
   </component>
@@ -214,6 +227,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="TEXT" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -321,15 +335,15 @@
       <workItem from="1493755400514" duration="232000" />
       <workItem from="1494073905456" duration="4973000" />
       <workItem from="1494290982762" duration="2729000" />
-      <workItem from="1494677758800" duration="1290000" />
+      <workItem from="1494677758800" duration="2263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16362000" />
+    <option name="totallyTimeSpent" value="17335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="759" y="92" width="1544" height="1231" extended-state="0" />
+    <frame x="916" y="87" width="1544" height="1231" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22668394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -583,10 +597,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02-CSS/Estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/02-CSS/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="144">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>

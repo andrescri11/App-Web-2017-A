@@ -1,0 +1,52 @@
+
+    /*body{
+        background-color: blue;
+        color: #fffdde;
+    }
+    h1{
+        background-color: red;
+        color : #ff345;
+    }
+    h3{
+        background-color: red;
+        color : #ff345;
+    }
+    div{
+        background-color: black;
+        color: white;
+    }*/
+    /*#uno{
+        background-color: yellow;
+        color: black;
+    }
+    h1{
+        background-color: red;
+        color: blue;
+    }
+    button{
+        background-color: #61ff31;
+        color: #feecff;
+    }
+    #cancelar{
+        background-color: black;
+        color: white;
+    }*/
+.boton-cuidado{
+    background-color: #ff7e39;
+    color: white;
+}
+.boton-exito{
+    background-color: cadetblue;
+    color: white;
+}
+/*.boton-cuidado:hover{
+    background-color: black;
+    color: white;
+}*/
+button:hover{
+    background-color: black;
+    color: white;
+}
+button:focus{
+    padding: 0.1%;
+}
