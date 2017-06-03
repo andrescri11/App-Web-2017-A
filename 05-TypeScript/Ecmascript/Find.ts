@@ -18,8 +18,9 @@ let arreglo =[
         nombre: "Alann",
         apellido : "Chulca",
         id:3
-    },
-]
+    }
+];
+
 arreglo.find(function(value){
     return value.apellido == "Chulca"
-})
+});
