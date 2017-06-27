@@ -6,13 +6,13 @@ declare var module:any
 
 module.exports = {
   attributes:{
-    nombre:{
-      type:"string"
-    },
-    password:{
+    nombres:{
       type:"string"
     },
     apellidos:{
+      type:"string"
+    },
+    password:{
       type:"string"
     },
     correo:{

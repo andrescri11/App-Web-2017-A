@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51e73e4c-efe0-4a5a-889e-669b3e5ff1e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.ts" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.ts" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.js" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.ts" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.js" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/connections.js" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/connections.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/models.js" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/models.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/package.json" afterPath="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,14 +47,14 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1498524751000" expanded="true" signature="17:1249" ph="{...}" />
-                <marker date="1498524751000" expanded="true" signature="52:449" ph="{...}" />
-                <marker date="1498524751000" expanded="true" signature="62:285" ph="//..." />
-                <marker date="1498524751000" expanded="true" signature="320:380" ph="{...}" />
-                <marker date="1498524751000" expanded="true" signature="394:443" ph="{...}" />
-                <marker date="1498524751000" expanded="true" signature="487:1247" ph="{...}" />
-                <marker date="1498524751000" expanded="true" signature="557:617" ph="{...}" />
-                <marker date="1498524751000" expanded="true" signature="631:680" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="17:1082" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="52:449" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="62:285" ph="//..." />
+                <marker date="1498528442000" expanded="true" signature="320:380" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="394:443" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="487:1082" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="557:617" ph="{...}" />
+                <marker date="1498528442000" expanded="true" signature="631:680" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -59,8 +63,8 @@
       <file leaf-file-name="saludoController.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="53">
+              <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
               <folding>
                 <element signature="e#109#444#0" expanded="false" />
                 <element signature="e#470#624#0" expanded="false" />
@@ -69,14 +73,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Usuario.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.ts">
+      <file leaf-file-name="AmigoController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/AmigoController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connections.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/connections.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/models.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usuario.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Usuario.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,7 +180,9 @@
         <option value="$PROJECT_DIR$/07-BackendMVC/README.md" />
         <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/SaludoController.ts" />
         <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.js" />
+        <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/models.js" />
         <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.ts" />
+        <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/connections.js" />
         <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.ts" />
       </list>
     </option>
@@ -159,8 +205,8 @@
     <handled-path value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="685" />
-    <option name="y" value="213" />
+    <option name="x" value="803" />
+    <option name="y" value="159" />
     <option name="width" value="1541" />
     <option name="height" value="1081" />
   </component>
@@ -242,7 +288,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App-Web-2017-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App-Web-2017-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-BackendMVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarritoCompras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App-Web-2017-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App-Web-2017-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-BackendMVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarritoCompras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Usuario.ts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App-Web-2017-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App-Web-2017-A" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-BackendMVC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CarritoCompras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,14 +414,15 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/03-Bootstrap/imagenes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models" />
       <recent name="$PROJECT_DIR$/03-Bootstrap/imagenes" />
       <recent name="$PROJECT_DIR$/06-Backend/CallBacks" />
       <recent name="$PROJECT_DIR$/05-TypeScript" />
       <recent name="$PROJECT_DIR$/JavaScript/Variables" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03-Bootstrap/imagenes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -415,25 +540,25 @@
       <workItem from="1496708363068" duration="5368000" />
       <workItem from="1497310631370" duration="1769000" />
       <workItem from="1497703590292" duration="6822000" />
-      <workItem from="1498522028337" duration="2968000" />
+      <workItem from="1498522028337" duration="5763000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55939000" />
+    <option name="totallyTimeSpent" value="58734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="685" y="213" width="1541" height="1081" extended-state="0" />
+    <frame x="803" y="159" width="1541" height="1081" extended-state="0" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30953926" sideWeight="0.49043715" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30953926" sideWeight="0.49043715" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30878186" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33994335" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30953926" sideWeight="0.50956285" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -458,7 +583,6 @@
         <option value="$PROJECT_DIR$/05-TypeScript/TypeScript/Clases.js" />
         <option value="$PROJECT_DIR$/05-TypeScript/TypeScript/Functions.js" />
         <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.js" />
-        <option value="$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.js" />
       </list>
     </option>
   </component>
@@ -470,13 +594,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -752,13 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/AmigoController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-BackendMVC/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -775,45 +885,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1498524751000" expanded="true" signature="17:1249" ph="{...}" />
-            <marker date="1498524751000" expanded="true" signature="52:449" ph="{...}" />
-            <marker date="1498524751000" expanded="true" signature="62:285" ph="//..." />
-            <marker date="1498524751000" expanded="true" signature="320:380" ph="{...}" />
-            <marker date="1498524751000" expanded="true" signature="394:443" ph="{...}" />
-            <marker date="1498524751000" expanded="true" signature="487:1247" ph="{...}" />
-            <marker date="1498524751000" expanded="true" signature="557:617" ph="{...}" />
-            <marker date="1498524751000" expanded="true" signature="631:680" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="17:1082" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="52:449" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="62:285" ph="//..." />
+            <marker date="1498528442000" expanded="true" signature="320:380" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="394:443" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="487:1082" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="557:617" ph="{...}" />
+            <marker date="1498528442000" expanded="true" signature="631:680" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/Usuario.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="24" column="2" lean-forward="false" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/connections.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-416">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/models.js">
+    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -837,10 +921,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/models.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/models/Usuario.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="16" column="6" lean-forward="false" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/AmigoController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/config/connections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="47" column="25" lean-forward="false" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07-BackendMVC/CarritoCompras/api/controllers/saludoController.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="30" />
+        <state relative-caret-position="53">
+          <caret line="43" column="6" lean-forward="false" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
           <folding>
             <element signature="e#109#444#0" expanded="false" />
             <element signature="e#470#624#0" expanded="false" />

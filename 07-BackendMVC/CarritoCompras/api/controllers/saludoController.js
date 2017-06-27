@@ -24,13 +24,23 @@ module.exports = {
     },
     //Saludo/crearUSuarioQuemado
     crearUsuarioQuemado: function (req, res) {
+        var parametros = req.allParams();
         var nuevoUsuario = {
-            nombres: "Cristhian",
-            apellidos: "Chulca",
-            password: "1234",
-            correo: "1@1.com",
-            fechaNacimiento: new Date()
+            nombres: parametros.nombres,
+            apellidos: parametros.apellidos,
+            password: parametros.password,
+            correo: parametros.correo,
+            fechaNacimiento: parametros.fechaNacimiento
         };
+        //1 - query parameters ?nombre=Adrian&apellidos=Eguez
+        //2 - forms parameters
+        /*let nuevoUsuario={
+          nombres:"Cristhian",
+          apellidos:"Chulca",
+          password:"1234",
+          correo:"1@j.com",
+          fechaNacimiento:new Date()
+        }*/
         Usuario.create(nuevoUsuario)
             .exec(function (error, usuarioCreado) {
             if (error) {

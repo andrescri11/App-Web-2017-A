@@ -33,13 +33,25 @@ module.exports = {
 
   //Saludo/crearUSuarioQuemado
   crearUsuarioQuemado:(req,res)=>{
-    let nuevoUsuario={
+    let parametros = req.allParams();
+
+    let nuevoUsuario = {
+      nombres:parametros.nombres,
+      apellidos:parametros.apellidos,
+      password:parametros.password,
+      correo:parametros.correo,
+      fechaNacimiento:parametros.fechaNacimiento
+    };
+    //1 - query parameters ?nombre=Adrian&apellidos=Eguez
+
+    //2 - forms parameters
+    /*let nuevoUsuario={
       nombres:"Cristhian",
       apellidos:"Chulca",
       password:"1234",
-      correo:"1@1.com",
+      correo:"1@j.com",
       fechaNacimiento:new Date()
-    }
+    }*/
 
     Usuario.create(nuevoUsuario)
       .exec((error,usuarioCreado)=>{
