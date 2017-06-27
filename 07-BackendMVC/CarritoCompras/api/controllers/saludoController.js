@@ -21,5 +21,24 @@ module.exports = {
         else {
             return res.send("ERROR");
         }
+    },
+    //Saludo/crearUSuarioQuemado
+    crearUsuarioQuemado: function (req, res) {
+        var nuevoUsuario = {
+            nombres: "Cristhian",
+            apellidos: "Chulca",
+            password: "1234",
+            correo: "1@1.com",
+            fechaNacimiento: new Date()
+        };
+        Usuario.create(nuevoUsuario)
+            .exec(function (error, usuarioCreado) {
+            if (error) {
+                return res.serverError(error);
+            }
+            else {
+                return res.ok(usuarioCreado);
+            }
+        });
     }
 };
